@@ -1,8 +1,27 @@
 # Personal Context Portfolio
 
-This repository is the working context layer for Ryan Green's group of businesses and initiatives. It is written for AI tools that need reliable context for strategy, planning, analysis, writing, and technical reasoning.
+This repository is the working context layer for Ryan Green's group of businesses and initiatives. It is designed to give ChatGPT and other AI tools the context they need to reason accurately about strategy, operations, structure, products, and cross-business decisions.
 
-It is organised around the actual group model rather than around generic profile templates. The aim is to show what sits at the ownership layer, what sits at the operating layer, which businesses drive growth, and where cross-business relationships matter.
+It is organised around the real group model rather than around generic profile templates. The aim is to make clear:
+
+- what sits at the ownership layer
+- what sits at the shared operating layer
+- which businesses drive growth
+- how the businesses relate to one another
+- which files an AI should read for a given task
+
+## Purpose
+
+This repository exists to reduce repeated explanation and improve the quality of AI-assisted work.
+
+Used properly, it should help an AI:
+
+- understand the structure of the group before making recommendations
+- distinguish between ownership, shared capability, and customer-facing delivery
+- reason about Caterlytix, Pebble, ArroCMS, TAC Operations, Green Box Ventures, and AGENTSdotNE in the right context
+- produce outputs that are more strategically useful and less generic
+
+It is not a marketing site or a public company profile. It is working context for analysis and decision support.
 
 ## Repository Structure
 
@@ -36,20 +55,13 @@ personal-context-portfolio/
 
 ## Root Files
 
-- `identity.md`
-- top-level context on who I am, what I do, and how to reason about the group
+- `identity.md`: top-level context on who I am, what I do, and how an AI should reason about the group
+- `goals-and-priorities.md`: current strategic direction and where time, investment, and management attention should go
+- `decision-log.md`: standing decisions that shape structure, operating logic, and trade-offs
+- `group-narrative.md`: plain-English explanation of how the group fits together and why the entities exist
+- `group-stack-model.md`: layered view of ownership, shared capability, commercial platforms, products, and ecosystem work
 
-- `goals-and-priorities.md`
-- current strategic direction and where time, investment, and management attention should go
-
-- `decision-log.md`
-- the standing decisions that shape structure, operating logic, and trade-offs
-
-- `group-narrative.md`
-- a plain-English explanation of how the group fits together and why the entities exist
-
-- `group-stack-model.md`
-- the layered model covering ownership, shared capability, commercial platforms, products, and ecosystem work
+If an AI can only read a few files, these should be the default starting point.
 
 ## Businesses Folder
 
@@ -63,7 +75,36 @@ Each folder in `businesses/` represents a specific business or initiative.
 - `businesses/arrocms/context.md`
 - `businesses/agentsdotne/context.md`
 
-Each `context.md` explains the role of that entity, how it creates value, and how an AI should reason about it. `businesses/caterlytix/projects.md` holds the more detailed workstream context for the group’s main growth business.
+Each `context.md` explains:
+
+- the role of that entity in the wider group
+- how it creates value
+- how it relates to the other businesses
+- what an AI should keep in mind when reasoning about it
+
+`businesses/caterlytix/projects.md` adds more detailed workstream context for the group’s main growth business.
+
+## How To Read The Repository
+
+Use the files in layers rather than reading everything by default.
+
+### Start Here for Most Tasks
+
+1. `identity.md`
+2. `group-narrative.md`
+3. `group-stack-model.md`
+
+### Add These When the Task Is Strategic
+
+- `goals-and-priorities.md`
+- `decision-log.md`
+
+### Add These When the Task Is Business-Specific
+
+- the relevant `businesses/<name>/context.md`
+- `businesses/caterlytix/projects.md` if the task involves Caterlytix delivery, platform strategy, or growth planning
+
+This keeps the context set focused and reduces noise.
 
 ## How To Use This Repository With AI Tools
 
@@ -74,10 +115,22 @@ For general strategic reasoning, start with:
 1. `identity.md`
 2. `group-narrative.md`
 3. `group-stack-model.md`
-4. Any relevant business `context.md`
+4. the relevant business `context.md`
 5. `goals-and-priorities.md` when trade-offs matter
 
 If the discussion is specifically about Caterlytix, also include `businesses/caterlytix/projects.md`.
+
+### Best Practice for ChatGPT
+
+- Do not paste the whole repository unless the task genuinely spans the whole group.
+- Tell ChatGPT which files to use before asking the main question.
+- Ask it to state assumptions when context is incomplete.
+- Ask it to distinguish between group-level decisions and business-level decisions.
+- Ask it to reference specific files when making a recommendation.
+
+Example:
+
+> Read `identity.md`, `group-narrative.md`, `group-stack-model.md`, and `businesses/pebble/context.md`. Then recommend how Pebble should relate to Caterlytix without weakening Pebble's direct-to-school focus.
 
 ### MCP or File-Aware Tools
 
@@ -90,6 +143,15 @@ Use prompts that tell the AI what level of context to load. For example:
 > Read `identity.md`, `group-stack-model.md`, and `businesses/caterlytix/context.md`, then help me refine the Caterlytix enterprise growth strategy.
 
 This keeps the context relevant and avoids loading the entire repository into every interaction.
+
+## Best Practices
+
+- Keep files factual, current, and specific.
+- Write for decision support, not for presentation polish.
+- Prefer clear distinctions between ownership, influence, and direct control.
+- Update terminology consistently across files when a business model or relationship changes.
+- Add new files only when they improve reasoning clarity; avoid creating context sprawl.
+- Where a topic is active but unstable, capture the stable logic in the root files and the changing detail in the relevant business file.
 
 ## Keeping Files Updated
 
