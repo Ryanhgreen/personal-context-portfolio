@@ -1,41 +1,67 @@
-# ArroCMS
+ArroCMS
 
-## What This Business Does
-ArroCMS is a SaaS training and programme management platform built around communications and AI. It is designed to help schools, charities, and businesses launch and run learning or programme-led activity more effectively by providing a digital infrastructure for engagement and operational delivery.
+What This Business Does
 
-## Core Proposition
-ArroCMS provides the tools and automation necessary to turn strategic intent into repeatable action. By embedding AI-enabled capabilities into programme operations and focusing on a strong communications orientation, it ensures that professional learning and organisational initiatives are implemented consistently across diverse contexts.
+ArroCMS is a SaaS training and programme management platform built around communications and AI. It enables schools, charities, and businesses to design, deliver, and manage structured programmes, including professional learning, marketing initiatives, and engagement campaigns.
 
-## Strategic Role in the Group
-ArroCMS serves as the **behaviour and implementation layer** of the group’s ecosystem. It bridges the gap between insight and action:
-* **Complementary to Caterlytix (Data Layer):** While Caterlytix provides the data and insights, ArroCMS provides the mechanism to act on that data through managed programmes.
-* **Complementary to Pebble (Transaction Layer):** While Pebble handles the financial and transactional elements, ArroCMS manages the human engagement and delivery workflows associated with those transactions.
+The platform provides a standardised framework for creating programmes made up of modules, each containing structured content such as introductions, AI-generated video, transcripts, resources, and learning notes. It is designed to support consistent delivery, audience engagement, and measurable outcomes.
 
-## Revenue Model
-* **SaaS Licensing:** Recurring subscription fees for platform access.
-* **Programme Commission:** Fees earned from the delivery and management of specific programmes.
-* **Services Commission:** Revenue generated through associated professional services and consultancy enabled by the platform.
+Core Proposition
 
-## Current State
-ArroCMS is an emerging business currently transitioning towards a scale-up phase. While it possesses a broad cross-sector market reach, it is presently focused on refining its product clarity and establishing the repeatable delivery patterns necessary for sustainable growth.
+ArroCMS turns strategy into structured, repeatable execution. It combines programme design, content generation, and delivery workflows into a single system, allowing organisations to implement initiatives at scale without relying on fragmented tools or large operational teams.
 
-## How This Business Wins
-ArroCMS wins through its unique combination of communication-centric design and embedded AI. Unlike generic management tools, it is specifically built to handle the nuances of programme-led activity across education, charity, and business sectors, providing high-quality, professional outputs that were previously only available to organisations with much larger administrative teams.
+Its communications-first approach, combined with embedded AI, ensures that programmes are not only delivered, but also clearly articulated, engaging, and aligned with organisational objectives.
 
-## Strategic Priorities
-* **Sharpen Scale-up Logic:** Transitioning from an internal project mindset to a disciplined product-led business model.
-* **Product Clarity:** Refining the core proposition to ensure the platform’s value is easily understood across different sectors.
-* **Repeatability:** Developing standardised delivery patterns to ensure quality remains high as the user base expands.
+Strategic Role in the Group
 
-## Key Challenges
-* **Market Discipline:** Avoiding the temptation to over-customise for specific sectors at the expense of a unified product roadmap.
-* **Operational Scaling:** Ensuring that service delivery remains efficient and high-quality during the transition to a scale-up model.
+ArroCMS is the behaviour and implementation layer of the group’s ecosystem. It operationalises strategy by translating insight and transactions into structured human activity.
+	•	Complementary to Caterlytix (Data Layer): Caterlytix provides insight, analytics, and decision intelligence. ArroCMS converts these insights into actionable programmes, campaigns, and workflows.
+	•	Complementary to Pebble (Transaction Layer): Pebble manages payments and financial transactions. ArroCMS manages the delivery, engagement, and communication activities that sit around those transactions.
 
-## Opportunities
-* **Cross-Sector Expansion:** Leveraging the platform’s inherent flexibility to increase market share in the charity and business sectors.
-* **AI Integration:** Further deepening AI capabilities to automate high-value, complex programme management tasks.
+Together, the three platforms form a complete system: insight, action, and transaction.
 
-## Notes for Decision-Making
-* Treat ArroCMS as a standalone product business rather than an internal side project.
-* Prioritise recommendations that strengthen repeatability and SaaS-level quality.
-* The cross-sector applicability is a competitive advantage, but it must not be allowed to dilute the core proposition or complicate the product roadmap.
+Revenue Model
+	•	SaaS Licensing: Recurring subscription fees for access to the platform.
+	•	Programme Commission: Revenue generated from delivering and managing structured programmes through the platform.
+	•	Services Commission: Consultancy and delivery services enabled and scaled through ArroCMS.
+
+Current State
+
+ArroCMS is transitioning from an internally driven product to a structured, scalable SaaS business. Core functionality and use cases are established, particularly within education and marketing-led programmes, but further work is required to sharpen positioning and standardise delivery.
+
+There is active development of programme frameworks, templates, and AI-supported content generation to improve usability and repeatability.
+
+How This Business Wins
+
+ArroCMS succeeds by focusing on structured delivery rather than generic tooling. It provides a clear framework for building and running programmes, supported by AI-generated content and communications-led design.
+
+Key advantages include:
+	•	Structured programme architecture that ensures consistency across users and organisations
+	•	Embedded AI to accelerate content creation and reduce operational burden
+	•	Strong alignment with communications, marketing, and engagement use cases
+	•	Ability to deliver professional-grade outputs without requiring large teams
+
+Strategic Priorities
+	•	Product Clarity: Clearly define and communicate what ArroCMS is and who it is for, avoiding ambiguity across sectors.
+	•	Repeatable Programme Design: Standardise how programmes are created and delivered to ensure scalability and consistent quality.
+	•	AI Integration: Expand AI capabilities across content generation, delivery support, and workflow automation.
+	•	Scale-up Discipline: Shift fully into a product-led operating model with clear boundaries and prioritisation.
+
+Key Challenges
+	•	Over-Customisation Risk: Balancing cross-sector flexibility with the need for a focused, unified product.
+	•	Positioning Complexity: Ensuring the platform is easily understood despite serving multiple use cases.
+	•	Operational Scaling: Maintaining quality of programme delivery as adoption increases.
+	•	Product Discipline: Avoiding feature creep driven by individual client needs.
+
+Opportunities
+	•	Expansion Beyond Education: Applying the same programme structure to charities and commercial organisations.
+	•	Marketing and Communications Use Cases: Leveraging strength in communications to support admissions, recruitment, engagement, and brand-building initiatives.
+	•	AI-Driven Programme Creation: Automating large parts of programme design and delivery to significantly reduce setup time.
+	•	Partnerships with Brands: Enabling structured CSR and education programmes delivered through ArroCMS.
+
+Notes for Decision-Making
+	•	Treat ArroCMS as a standalone SaaS product, not an internal tool or service wrapper.
+	•	Prioritise features and improvements that increase repeatability and reduce reliance on manual delivery.
+	•	Maintain a clear product boundary to prevent fragmentation across sectors.
+	•	Focus on building scalable programme frameworks rather than bespoke solutions.
+	•	Ensure all developments strengthen ArroCMS’s role as the execution layer between data (Caterlytix) and transactions (Pebble).
