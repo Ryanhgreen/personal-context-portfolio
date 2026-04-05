@@ -29,10 +29,13 @@ It is not a marketing site or a public company profile. It is working context fo
 personal-context-portfolio/
 ├── README.md
 ├── identity.md
+├── communication-style.md
 ├── goals-and-priorities.md
 ├── decision-log.md
 ├── group-narrative.md
+├── group-sales-narrative.md
 ├── group-stack-model.md
+├── group-strategy-deck.md
 ├── businesses/
 │   ├── green-box-ventures/
 │   │   └── context.md
@@ -56,10 +59,13 @@ personal-context-portfolio/
 ## Root Files
 
 - `identity.md`: top-level context on who I am, what I do, and how an AI should reason about the group
+- `communication-style.md`: guidance on tone, structure, and output style for AI-assisted writing and analysis
 - `goals-and-priorities.md`: current strategic direction and where time, investment, and management attention should go
 - `decision-log.md`: standing decisions that shape structure, operating logic, and trade-offs
 - `group-narrative.md`: plain-English explanation of how the group fits together and why the entities exist
+- `group-sales-narrative.md`: the commercial positioning narrative for describing the group and its businesses
 - `group-stack-model.md`: layered view of ownership, shared capability, commercial platforms, products, and ecosystem work
+- `group-strategy-deck.md`: markdown version of the core strategy-deck storyline for planning and summary work
 
 If an AI can only read a few files, these should be the default starting point.
 
@@ -98,6 +104,8 @@ Use the files in layers rather than reading everything by default.
 
 - `goals-and-priorities.md`
 - `decision-log.md`
+- `group-strategy-deck.md`
+- `group-sales-narrative.md` when the task is positioning or commercial narrative
 
 ### Add These When the Task Is Business-Specific
 
@@ -113,10 +121,11 @@ This keeps the context set focused and reduces noise.
 For general strategic reasoning, start with:
 
 1. `identity.md`
-2. `group-narrative.md`
-3. `group-stack-model.md`
-4. the relevant business `context.md`
-5. `goals-and-priorities.md` when trade-offs matter
+2. `communication-style.md`
+3. `group-narrative.md`
+4. `group-stack-model.md`
+5. the relevant business `context.md`
+6. `goals-and-priorities.md` when trade-offs matter
 
 If the discussion is specifically about Caterlytix, also include `businesses/caterlytix/projects.md`.
 
@@ -130,7 +139,7 @@ If the discussion is specifically about Caterlytix, also include `businesses/cat
 
 Example:
 
-> Read `identity.md`, `group-narrative.md`, `group-stack-model.md`, and `businesses/pebble/context.md`. Then recommend how Pebble should relate to Caterlytix without weakening Pebble's direct-to-school focus.
+> Read `identity.md`, `communication-style.md`, `group-narrative.md`, `group-stack-model.md`, and `businesses/pebble/context.md`. Then recommend how Pebble should relate to Caterlytix without weakening Pebble's direct-to-school focus.
 
 ### MCP or File-Aware Tools
 
@@ -140,7 +149,7 @@ If the AI tool can read repository files directly, point it at the repository ro
 
 Use prompts that tell the AI what level of context to load. For example:
 
-> Read `identity.md`, `group-stack-model.md`, and `businesses/caterlytix/context.md`, then help me refine the Caterlytix enterprise growth strategy.
+> Read `identity.md`, `group-stack-model.md`, `group-strategy-deck.md`, and `businesses/caterlytix/context.md`, then help me refine the Caterlytix enterprise growth strategy.
 
 This keeps the context relevant and avoids loading the entire repository into every interaction.
 

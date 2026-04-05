@@ -12,7 +12,7 @@ TAC Operations is the central operating company. It runs finance, operations, ba
 
 Caterlytix is the primary strategic growth engine. It serves contract caterers and hospitality companies by connecting fragmented systems, structuring operational data, and enabling reporting, applications, and AI-led solutions. It is the clearest route to larger-scale recurring revenue and international growth.
 
-Pebble is a schools-facing operating business with direct product relationships in education. Its product set includes TALI, an income management system, and TILL, an EPOS platform for secondary schools. Pebble has its own market logic, but its data can integrate with Caterlytix where cross-business value exists.
+Pebble is a schools-facing operating business with direct product relationships in education. Its product set includes Tali, an income management system, and Till, an EPOS platform for secondary schools. Pebble has its own market logic, but its data can integrate with Caterlytix where cross-business value exists.
 
 ArroCMS is an emerging SaaS platform focused on training and programme management. It is built around communications and AI, and is relevant across schools, charities, and businesses. It is moving from emerging proposition towards scale-up and should be managed with a sharper SaaS discipline over time.
 

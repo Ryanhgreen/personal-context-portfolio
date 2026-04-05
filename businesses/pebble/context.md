@@ -6,8 +6,8 @@ Pebble is the direct-to-school business within the group. It serves the educatio
 
 ## Product Set
 
-- TALI: income management system
-- TILL: EPOS platform for secondary schools
+- Tali: income management system
+- Till: EPOS platform for secondary schools
 
 ## Strategic Position
 

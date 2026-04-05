@@ -48,8 +48,8 @@ This file describes the group as a stack of layers so that strategic, operating,
 ### Pebble
 
 - Direct-to-school business
-- TALI is the income management system
-- TILL is the EPOS platform for secondary schools
+- Tali is the income management system
+- Till is the EPOS platform for secondary schools
 - Pebble data can integrate with Caterlytix where useful
 
 ## Layer 5: Ecosystem and Innovation Reach
