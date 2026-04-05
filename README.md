@@ -1,64 +1,109 @@
 # Personal Context Portfolio
 
-Every AI agent, tool, and system you use needs to know who you are. Right now, you re-explain yourself from scratch every time — your role, your projects, your preferences, your constraints. It's the most repetitive, highest-friction part of working with AI, and it gets exponentially worse as the number of agents in your life grows from one to ten to fifty.
+This repository is the working context layer for Ryan Green's group of businesses and initiatives. It is written for AI tools that need structured context for strategy, planning, analysis, writing, and technical reasoning.
 
-The personal context portfolio fixes this. It's a structured set of markdown files that together represent you as a context package — something any agent, any tool, any AI system can ingest and immediately understand who it's working with.
+The repository is organised around the actual group model rather than around generic personal-profile templates. The goal is to help an AI understand what sits at the ownership layer, what sits at the operating layer, which businesses drive growth, and where cross-business relationships matter.
 
-It's not a resume. It's not a profile. It's an operating manual for any AI that works for you.
+## Repository Structure
 
-## What's In It
-
-Ten files, each covering a different dimension of who you are and how you work:
-
-| File | What It Captures |
-|------|-----------------|
-| `identity.md` | Who you are in one page — the file an agent reads if it can only read one |
-| `role-and-responsibilities.md` | What your weeks actually look like, not what your job description says |
-| `current-projects.md` | Active workstreams, status, priority, what done looks like |
-| `team-and-relationships.md` | Key people, how you interact, what they need from you |
-| `tools-and-systems.md` | Your stack, your setup, what connects to what |
-| `communication-style.md` | How you write, how you want things written for you |
-| `goals-and-priorities.md` | What you're optimizing for and what you're deliberately ignoring |
-| `preferences-and-constraints.md` | Hard rules, strong opinions, things any agent should respect |
-| `domain-knowledge.md` | What you know that a general-purpose AI doesn't |
-| `decision-log.md` | How you make decisions, with real examples |
-
-## Design Principles
-
-**Markdown-first.** Every AI system on earth can read markdown. It's the universal interchange format for context. Not JSON, not PDFs, not databases. Markdown files that are human-readable AND machine-readable.
-
-**Modular, not monolithic.** Not one giant "about me" file. Separate files for separate domains. An agent prepping your meetings doesn't need your full life story — it needs your calendar context, team roster, and meeting preferences. Modularity lets agents grab what's relevant.
-
-**Living, not static.** This isn't a thing you write once. It's a thing you maintain — or better, that your agents help you maintain. Your projects file updates as projects change. Your priorities file shifts quarterly. The portfolio evolves with you.
-
-**Portable across everything.** Works with Claude, works with ChatGPT, works with OpenClaw agents, works with whatever comes next. No vendor lock-in. It's just files.
-
-## Two Ways to Build Yours
-
-**Use the web app.** A purpose-built interviewer agent walks you through the whole process. You answer questions, it drafts your files, you correct what it gets wrong, and you walk away with your complete portfolio. Zero setup, zero friction. → [Link to app]
-
-**Do it yourself.** Fork this repo and use the templates in `/templates`. Each template includes the interview questions your AI build partner should ask you, plus the output structure for the finished file. Hand any template to Claude or ChatGPT and say "let's do this one."
-
-## After You Build It
-
-The portfolio is raw material. What makes it powerful is wiring it into the systems you actually use. The `/wiring` directory has guides for exposing your portfolio as an MCP resource, using it in Claude Projects, connecting it to OpenClaw agents, and more. That's the real work — and it's on you.
-
-## Repo Structure
-
-```
+```text
 personal-context-portfolio/
-├── README.md                    ← you are here
-├── GETTING-STARTED.md           ← step-by-step for both paths
-├── templates/                   ← empty templates with interview protocols
-├── examples/                    ← filled-out examples for three personas
-│   ├── knowledge-worker/
-│   ├── executive/
-│   └── entrepreneur/
-├── wiring/                      ← guides for connecting your portfolio to AI tools
+├── README.md
+├── identity.md
+├── goals-and-priorities.md
+├── decision-log.md
+├── group-narrative.md
+├── group-stack-model.md
+├── businesses/
+│   ├── green-box-ventures/
+│   │   └── context.md
+│   ├── tac-operations/
+│   │   └── context.md
+│   ├── caterlytix/
+│   │   ├── context.md
+│   │   └── projects.md
+│   ├── pebble/
+│   │   └── context.md
+│   ├── arrocms/
+│   │   └── context.md
+│   └── agentsdotne/
+│       └── context.md
+├── templates/
+├── examples/
+├── wiring/
 └── interview-protocol/
-    └── agent-system-prompt.md   ← the full system prompt from the web app
 ```
 
-## License
+## Root Files
 
-MIT. Fork it, customize it, use it however you want.
+- `identity.md`
+
+The top-level explanation of who I am, what I do, and how an AI should reason about my work across the group.
+
+- `goals-and-priorities.md`
+
+The current strategic direction for the group. This is the file to read when deciding what should get time, investment, or management attention.
+
+- `decision-log.md`
+
+The standing operating decisions that shape how the group is structured and how trade-offs should be handled.
+
+- `group-narrative.md`
+
+The plain-English explanation of how the group fits together and why the entities exist in their current form.
+
+- `group-stack-model.md`
+
+The layered model of the group covering ownership, shared operating capability, commercial platforms, market-facing products, and ecosystem work.
+
+## Businesses Folder
+
+Each folder in `businesses/` represents a specific business or initiative.
+
+- `businesses/green-box-ventures/context.md`
+- `businesses/tac-operations/context.md`
+- `businesses/caterlytix/context.md`
+- `businesses/caterlytix/projects.md`
+- `businesses/pebble/context.md`
+- `businesses/arrocms/context.md`
+- `businesses/agentsdotne/context.md`
+
+Each `context.md` explains the role of that entity, how it creates value, and how an AI should think about it. `businesses/caterlytix/projects.md` holds the more detailed workstream context for the group’s main growth business.
+
+## How To Use This Repository With AI Tools
+
+### ChatGPT and Claude
+
+For general strategic reasoning, start by sharing:
+
+1. `identity.md`
+2. `group-narrative.md`
+3. `group-stack-model.md`
+4. Any relevant business `context.md`
+5. `goals-and-priorities.md` when trade-offs matter
+
+If the discussion is specifically about Caterlytix, also include `businesses/caterlytix/projects.md`.
+
+### MCP or File-Aware Tools
+
+If the AI tool can read repository files directly, point it at the repository root and instruct it to use the root files first, then read into the relevant business folder as needed. This works well for MCP-compatible tools, repository-aware coding agents, or any assistant that can ingest markdown from a local directory.
+
+### Good Prompt Pattern
+
+Use prompts that tell the AI what level of context to load. For example:
+
+> Read `identity.md`, `group-stack-model.md`, and `businesses/caterlytix/context.md`, then help me refine the Caterlytix enterprise growth strategy.
+
+This keeps the context relevant and avoids dumping the entire repository into every interaction.
+
+## Keeping Files Updated
+
+- Update `goals-and-priorities.md` when strategic direction changes.
+- Update `decision-log.md` when a structural decision becomes stable enough to guide future reasoning.
+- Update a business `context.md` when its role, model, or strategic position changes.
+- Update `businesses/caterlytix/projects.md` when a major workstream changes scope, status, or importance.
+- Review naming, terminology, and business relationships regularly so the files stay internally consistent.
+
+## Reference Material
+
+The `templates/`, `examples/`, `wiring/`, and `interview-protocol/` directories remain in the repository as supporting material. They are useful when extending the portfolio, refactoring the structure, or wiring the markdown into other AI workflows, but the authoritative operating context now lives in the root files and `businesses/` folder.
