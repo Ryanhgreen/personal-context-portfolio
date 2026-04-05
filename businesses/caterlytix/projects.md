@@ -14,7 +14,7 @@ Make Trac Core the standard middleware layer for connecting fragmented client sy
 
 ### Why It Matters
 
-Trac Core only becomes a true platform if integration capability can be reused across clients and geographies. Standardisation at this layer is what makes scale realistic.
+Trac Core only becomes a true platform if integration capability can be reused across clients and geographies. Standardisation at this layer is what makes scale possible.
 
 ### Key Risks and Dependencies
 
@@ -80,7 +80,7 @@ Use the Blackpool Council work as a credible operating example of how Caterlytix
 
 ### Why It Matters
 
-Referenceable delivery in a complex environment can sharpen product direction, improve credibility, and inform what should become standard capability.
+Referenceable delivery in a complex environment can sharpen product direction, improve credibility, and show what should become standard capability.
 
 ### Key Risks and Dependencies
 
@@ -124,7 +124,7 @@ Position Caterlytix to operate beyond the UK and support international clients w
 
 ### Why It Matters
 
-International expansion increases market size and strategic upside, but only if the platform is portable and the proposition remains coherent outside the domestic context.
+International growth increases market size and strategic upside, but only if the platform is portable and the proposition remains coherent outside the domestic context.
 
 ### Key Risks and Dependencies
 

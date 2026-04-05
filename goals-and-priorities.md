@@ -12,7 +12,7 @@ Caterlytix is the highest-leverage commercial opportunity in the group. It shoul
 
 ### 2. Keep TAC Operations Strong but Focused
 
-TAC Operations should continue to provide finance, operations, HR, back-office capability, and innovation capacity across the group. Its role is to increase specialist quality and decision velocity, not to smother the operating identity or culture of the businesses it supports.
+TAC Operations should continue to provide finance, operations, HR, back-office capability, and innovation capacity across the group. Its role is to increase specialist quality and decision velocity, not to blur the operating identity or culture of the businesses it supports.
 
 ### 3. Build Group-Level Data and AI Advantage
 
@@ -28,7 +28,7 @@ Green Box Ventures should remain the family investment vehicle that accumulates 
 
 ### 6. Use AGENTSdotNE to Extend Reach and Opportunity
 
-AGENTSdotNE should build regional AI capability, surface talent, and create adjacent innovation opportunities. It is strategically useful because it expands network, credibility, and idea flow, even where the direct commercial model is secondary.
+AGENTSdotNE should build regional AI capability, surface talent, and create adjacent innovation opportunities. It is strategically useful because it expands network, credibility, and idea flow, even where direct commercial return is secondary.
 
 ## Strategic Principles
 

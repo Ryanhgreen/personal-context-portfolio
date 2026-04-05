@@ -13,7 +13,7 @@ Green Box Ventures is the family investment vehicle within the group structure. 
 
 ## Strategic Use
 
-Green Box Ventures should be treated as the capital and ownership layer of the group. It is not the operating centre and should not be used as the default home for delivery work, shared services, or product execution.
+Green Box Ventures should be treated as the capital and ownership layer of the group. It is not the operating centre and should not become the default home for delivery work, shared services, or product execution.
 
 ## What An AI Should Keep In Mind
 

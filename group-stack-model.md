@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file describes the group as a stack of layers so that strategic, operating, and technical decisions can be reasoned about in the right order.
+This file describes the group as a stack of layers so that strategic, operating, and technical decisions can be assessed in the right order.
 
 ## Layer 1: Capital and Ownership
 
@@ -33,7 +33,7 @@ This file describes the group as a stack of layers so that strategic, operating,
 - Uses Trac ODM as the operational data manager with client tenancy
 - Supports reporting, applications, and LLM-enabled solutions
 - Revenue model combines SaaS and professional services
-- Should target large enterprise groups and international expansion
+- Should target large enterprise groups and international growth
 
 ### ArroCMS
 
@@ -66,5 +66,5 @@ This file describes the group as a stack of layers so that strategic, operating,
 - Shared control should sit mainly in capital allocation, specialist capability, and platform standards.
 - Customer delivery accountability should sit with the business serving that market.
 - Standardisation should happen primarily at the integration and data layer.
-- AI should be applied where it improves workflow, insight, or product capability, not as a cosmetic layer.
+- AI should be applied where it improves workflow, insight, or product capability, not as a cosmetic add-on.
 - Decisions should increase reuse across the group without erasing the differences between the businesses.

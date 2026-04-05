@@ -15,7 +15,7 @@ TAC Operations is the central operating company for the group. It provides share
 
 ## Strategic Position
 
-TAC Operations should shape standards, improve execution quality, and provide experienced support where the operating businesses would otherwise duplicate effort or lack specialist depth. Its influence should be strong, but its role is not to micromanage each business or impose one culture across the group.
+TAC Operations should shape standards, improve execution quality, and provide experienced support where the operating businesses would otherwise duplicate effort or lack specialist depth. Its influence should be strong, but its role is not to micromanage each business or impose a single culture across the group.
 
 ## Boundaries
 

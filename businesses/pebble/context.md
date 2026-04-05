@@ -11,7 +11,7 @@ Pebble is the direct-to-school business within the group. It serves the educatio
 
 ## Strategic Position
 
-Pebble should be treated as a focused market-facing business with its own commercial logic, customer relationships, and product responsibilities. It is not simply a channel for another group platform.
+Pebble should be treated as a focused market-facing business with its own commercial logic, customer relationships, and product responsibilities. It is not just a channel for another group platform.
 
 ## Relationship to the Wider Group
 

@@ -27,5 +27,5 @@
 ## Decision: Keep Community and Commercial Work Distinct but Connected
 
 **Status:** Active  
-**Rationale:** AGENTSdotNE creates strategic value through profile, relationships, talent spotting, and idea flow. That value is real, but it should not be confused with the direct commercial logic of the software and operating businesses.  
+**Rationale:** AGENTSdotNE creates strategic value through profile, relationships, talent spotting, and idea flow. That value is real, but it should not be confused with the commercial logic of the software and operating businesses.  
 **Implication for Decisions:** Use community activity to strengthen network and innovation opportunities, while preserving clear commercial disciplines in the operating businesses.

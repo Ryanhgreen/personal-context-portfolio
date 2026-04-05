@@ -13,7 +13,7 @@ Caterlytix is the primary strategic growth engine in the group. It serves contra
 
 ## Strategic Importance
 
-Caterlytix has the clearest route to scale because it can turn difficult integration problems into reusable platform capability. That creates room for enterprise reporting, workflow applications, and AI-enabled products without rebuilding the same logic client by client.
+Caterlytix has the clearest route to scale because it can turn difficult integration problems into reusable platform capability. That creates room for enterprise reporting, workflow applications, and AI-enabled products without rebuilding the same logic for each client.
 
 ## Market Direction
 
@@ -39,4 +39,4 @@ Caterlytix has the clearest route to scale because it can turn difficult integra
 
 - Caterlytix decisions should usually be judged by repeatability, enterprise fit, and long-term platform leverage.
 - Custom work is acceptable when it strengthens reusable capability or strategic access.
-- The integration and data layer is the real control point in the model.
+- The integration and data layer is the main control point in the model.

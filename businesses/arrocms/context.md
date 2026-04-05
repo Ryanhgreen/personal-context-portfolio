@@ -12,7 +12,7 @@ ArroCMS is a SaaS training and programme management platform built around commun
 
 ## Strategic Position
 
-ArroCMS is an emerging business moving towards scale-up. It has a broader cross-sector addressable market than some of the other businesses, but it still needs disciplined positioning, product clarity, and repeatable delivery patterns to scale well.
+ArroCMS is an emerging business moving towards scale-up. It has a broader cross-sector market than some of the other businesses, but it still needs disciplined positioning, product clarity, and repeatable delivery patterns to scale well.
 
 ## Differentiation
 
