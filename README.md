@@ -33,24 +33,32 @@ personal-context-portfolio/
 ├── goals-and-priorities.md
 ├── decision-log.md
 ├── group-narrative.md
-├── group-sales-narrative.md
 ├── group-stack-model.md
 ├── group-strategy-deck.md
 ├── businesses/
 │   ├── green-box-ventures/
-│   │   └── context.md
+│   │   ├── context.md
+│   │   └── sales-pitch.md
 │   ├── tac-operations/
-│   │   └── context.md
+│   │   ├── context.md
+│   │   └── sales-pitch.md
 │   ├── caterlytix/
 │   │   ├── context.md
-│   │   └── projects.md
+│   │   ├── projects.md
+│   │   └── sales-pitch.md
 │   ├── pebble/
-│   │   └── context.md
+│   │   ├── context.md
+│   │   └── sales-pitch.md
 │   ├── arrocms/
-│   │   └── context.md
+│   │   ├── context.md
+│   │   └── sales-pitch.md
 │   └── agentsdotne/
-│       └── context.md
+│       ├── context.md
+│       └── sales-pitch.md
+├── prompts/
+│   └── update-business-files.md
 ├── templates/
+│   └── business-sales-pitch-template.md
 ├── examples/
 ├── wiring/
 └── interview-protocol/
@@ -63,7 +71,6 @@ personal-context-portfolio/
 - `goals-and-priorities.md`: current strategic direction and where time, investment, and management attention should go
 - `decision-log.md`: standing decisions that shape structure, operating logic, and trade-offs
 - `group-narrative.md`: plain-English explanation of how the group fits together and why the entities exist
-- `group-sales-narrative.md`: the commercial positioning narrative for describing the group and its businesses
 - `group-stack-model.md`: layered view of ownership, shared capability, commercial platforms, products, and ecosystem work
 - `group-strategy-deck.md`: markdown version of the core strategy-deck storyline for planning and summary work
 
@@ -73,13 +80,9 @@ If an AI can only read a few files, these should be the default starting point.
 
 Each folder in `businesses/` represents a specific business or initiative.
 
-- `businesses/green-box-ventures/context.md`
-- `businesses/tac-operations/context.md`
-- `businesses/caterlytix/context.md`
-- `businesses/caterlytix/projects.md`
-- `businesses/pebble/context.md`
-- `businesses/arrocms/context.md`
-- `businesses/agentsdotne/context.md`
+- `context.md`
+- `projects.md` where relevant
+- `sales-pitch.md`
 
 Each `context.md` explains:
 
@@ -89,6 +92,16 @@ Each `context.md` explains:
 - what an AI should keep in mind when reasoning about it
 
 `businesses/caterlytix/projects.md` adds more detailed workstream context for the group’s main growth business.
+
+Each `sales-pitch.md` is used for:
+
+- brand positioning
+- sales and marketing messages
+- ideal customer profiles
+- customer personas
+- qualification questions
+- objections and buying triggers
+- cross-sell and group synergies
 
 ## How To Read The Repository
 
@@ -105,11 +118,11 @@ Use the files in layers rather than reading everything by default.
 - `goals-and-priorities.md`
 - `decision-log.md`
 - `group-strategy-deck.md`
-- `group-sales-narrative.md` when the task is positioning or commercial narrative
 
 ### Add These When the Task Is Business-Specific
 
 - the relevant `businesses/<name>/context.md`
+- the relevant `businesses/<name>/sales-pitch.md` for positioning, messaging, or qualification work
 - `businesses/caterlytix/projects.md` if the task involves Caterlytix delivery, platform strategy, or growth planning
 
 This keeps the context set focused and reduces noise.
@@ -125,7 +138,8 @@ For general strategic reasoning, start with:
 3. `group-narrative.md`
 4. `group-stack-model.md`
 5. the relevant business `context.md`
-6. `goals-and-priorities.md` when trade-offs matter
+6. the relevant business `sales-pitch.md` for sales, messaging, or commercial work
+7. `goals-and-priorities.md` when trade-offs matter
 
 If the discussion is specifically about Caterlytix, also include `businesses/caterlytix/projects.md`.
 
@@ -139,7 +153,7 @@ If the discussion is specifically about Caterlytix, also include `businesses/cat
 
 Example:
 
-> Read `identity.md`, `communication-style.md`, `group-narrative.md`, `group-stack-model.md`, and `businesses/pebble/context.md`. Then recommend how Pebble should relate to Caterlytix without weakening Pebble's direct-to-school focus.
+> Read `identity.md`, `communication-style.md`, `group-narrative.md`, `group-stack-model.md`, `businesses/pebble/context.md`, and `businesses/pebble/sales-pitch.md`. Then recommend how Pebble should relate to Caterlytix without weakening Pebble's direct-to-school focus.
 
 ### MCP or File-Aware Tools
 
@@ -168,6 +182,7 @@ This keeps the context relevant and avoids loading the entire repository into ev
 - Update `decision-log.md` when a structural decision becomes stable enough to guide future reasoning.
 - Update a business `context.md` when its role, model, or strategic position changes.
 - Update `businesses/caterlytix/projects.md` when a major workstream changes scope, status, or importance.
+- Update a business `sales-pitch.md` when positioning, customer profiles, objections, or buying triggers change.
 - Review naming, terminology, and business relationships regularly so the repository stays internally consistent.
 
 ## Reference Material
