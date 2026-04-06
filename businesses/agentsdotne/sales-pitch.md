@@ -1,100 +1,91 @@
 # Sales Pitch - AGENTSdotNE
 
-## Brand Positioning
+## Positioning
 
-AGENTSdotNE is a North East community initiative focused on AI capability, experimentation, talent, and innovation, helping raise profile, surface ideas, and strengthen the regional technology ecosystem.
+AGENTSdotNE is a North East AI community focused on practical learning, experimentation, and collaboration.
 
-## Who We Help
+It provides a visible, credible focal point for AI activity in the region through free, open meetups.
 
-- the North East tech community
-- people developing AI skills
-- businesses interested in AI innovation
-- the wider group through profile, talent, and idea generation
+## Audience
 
-## Ideal Customer Profiles
+- local builders and practitioners
+- founders and operators
+- businesses exploring AI
+- universities and educators
+- ecosystem partners and sponsors
 
-- local professionals and builders interested in AI
-- organisations wanting to engage with AI talent and innovation
-- community members seeking practical AI learning and collaboration
-- businesses looking to spot ideas, talent, or early opportunities
+## Value
 
-## Customer Personas
+- builds AI capability in the region
+- connects talent, ideas, and organisations
+- creates visibility and trust
+- surfaces collaboration and partnership opportunities
+- strengthens the local innovation ecosystem
 
-### Community Builder
-Wants to grow capability and momentum in the region.
+## Why It Works
 
-### AI Enthusiast or Practitioner
-Wants to learn, build, and connect with others.
+- practical, not theoretical
+- free and open participation
+- lightweight and fast to validate
+- regionally focused
+- connects community, business, and education
 
-### Employer or Business Leader
-Wants access to talent, ideas, and practical AI thinking.
+## Key Messages
 
-### Innovation Lead
-Wants a visible community touchpoint for experimentation and future opportunities.
+- strong communities create stronger ecosystems
+- AI capability grows through shared learning
+- AGENTSdotNE gives the region a focal point
+- accessibility drives participation
+- useful activity beats abstract discussion
 
-## Problems We Solve
+## Proof Points
 
-- fragmented local AI activity
-- lack of community-driven capability building
-- missed opportunities for talent and idea spotting
-- limited profile for businesses doing interesting work in the region
+- North East focused
+- free and open meetups
+- central venue (Northern Design Centre)
+- planned university involvement
+- lightweight website and onboarding
+- early-stage, community-first approach
 
-## Core Value Proposition
+## Objections
 
-AGENTSdotNE creates a visible and practical AI community that helps develop skills, surface ideas, raise regional profile, and strengthen the talent and innovation pipeline.
+### "Is this commercial?"
 
-## Why We Win
+No. Community-first. Commercial value may emerge later.
 
-- rooted in real community and practical experimentation
-- benefits both participants and the wider group
-- creates a low-cost but high-value innovation and profile engine
-- helps identify talent and emerging ideas early
+### "Why free?"
 
-## Key Sales Messages
+Removes barriers. Drives participation and network effects.
 
-- Strong communities create strong ecosystems.
-- AI capability grows faster when people learn and build together.
-- AGENTSdotNE is a practical route to ideas, profile, and talent.
-- Innovation does not have to start inside formal structures.
+### "Why so lightweight?"
 
-## Supporting Proof Points
+Focused on validation before scaling.
 
-- focused on the North East
-- supports AI applications and skill development
-- designed to raise profile and support talent spotting
-- connected to a wider group of technology businesses
+### "Are there projects?"
 
-## Common Objections
+Not yet. Currently gathering interest and ideas.
 
-- "Is this a community or a commercial venture?"
-- "How does this create value?"
-- "Will this become too loose or unfocused?"
+## Fit
 
-## Questions to Qualify a Prospect
+Best suited for:
 
-- Are you looking for talent, ideas, profile, or community engagement?
-- Do you want to support practical AI capability in the region?
-- Are you trying to connect with builders, operators, or innovators?
-- Is your interest strategic, recruitment-led, or innovation-led?
-- Would collaboration with the wider group be useful?
+- partnerships
+- sponsorships
+- ecosystem engagement
+- university collaboration
+- talent and innovation access
 
-## Buying Triggers
+Not suited for direct SaaS-style selling.
 
-- desire to engage more visibly in the regional tech scene
-- need for AI talent and fresh thinking
-- interest in sponsoring or participating in innovation-led community activity
-- opportunity to turn community ideas into future ventures
+## Strategic Value
 
-## Cross-Sell or Group Synergies
+- strengthens regional presence
+- builds relationships and trust
+- surfaces talent and ideas early
+- supports future ventures and partnerships
 
-- supports talent and idea flow into the wider group
-- may surface opportunities relevant to ArroCMS, Caterlytix, or TAC Operations
-- strengthens group visibility and regional credibility
+## Guidance
 
-## Notes for Sales and Marketing
-
-This file is best used for:
-- partnership discussions
-- community positioning
-- sponsorship or collaboration conversations
-- explaining the strategic value of the initiative
+- keep messaging grounded and practical
+- do not overstate maturity
+- emphasise community, not product
